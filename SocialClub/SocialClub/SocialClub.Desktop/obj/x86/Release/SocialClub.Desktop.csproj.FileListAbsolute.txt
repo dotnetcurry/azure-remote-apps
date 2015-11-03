@@ -1,0 +1,2 @@
+C:\Kunal_Apps\Azure\Boot Camps\DNC\Azure Remote Apps\SourceCode\SocialClub - copy\SocialClub\SocialClub.Desktop\bin\Release\SocialClub.Desktop.exe.config
+C:\Kunal_Apps\Azure\Boot Camps\DNC\Azure Remote Apps\SourceCode\SocialClub - copy\SocialClub\SocialClub.Desktop\obj\x86\Release\SocialClub.Desktop.csproj.ResolveComReference.cache
